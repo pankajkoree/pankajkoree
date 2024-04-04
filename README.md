@@ -71,3 +71,13 @@
 <img src="https://raw.githubusercontent.com/codejust4U/codejust4U/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+![snake gif](https://github.com/codejust4U/codejust4U/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
