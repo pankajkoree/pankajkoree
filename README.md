@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkoree" alt="pankajkoree" /></a> </p>
 
-- 🔭 I’m currently working on ** how Youtube works on like,comment,subscribe,community,users** 
+- 🔭 I’m currently working on **how Youtube works on like,comment,subscribe,community,users** 
 
 - 🤝 I’m looking for help with **NextJS**
 
