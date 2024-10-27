@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkoree" alt="pankajkoree" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce project**
+- 🔭 I’m currently working on working of **Youtube** 
 
 - 🤝 I’m looking for help with **NextJS**
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **javascript, react,nodejs, expressjs, nextjs, mongodb,mysql,tailwindcss**
 
 - 📫 How to reach me **pankajkori2057@gmai.com**
 
