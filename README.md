@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on - Dashboard project<br>☘️I'm currently learning - framer motion
+🔭I'm currently working on - Invoice generator <br>☘️I'm currently learning - framer motion
 
 
 ## 🌐 Socials:
