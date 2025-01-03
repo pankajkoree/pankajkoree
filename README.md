@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑Portfolio - [!link]( https://pankajkoree.netlify.app/)
+🧑Portfolio - https://pankajkoree.netlify.app/
 🔭I'm currently working on - Invoice generator <br>☘️I'm currently learning - framer motion, socket.io and image resizing
 
 
