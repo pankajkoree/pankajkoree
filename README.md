@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧑Portfolio - https://pankajkoree.netlify.app/
 
-🔭I'm currently working on - Invoice generator <br>☘️I'm currently learning - framer motion, socket.io and image resizing
+🔭I'm currently working on - Mental Stress App <br>☘️I'm currently learning - tips and tricks for mental stress
 
 
 ## 🌐 Socials:
