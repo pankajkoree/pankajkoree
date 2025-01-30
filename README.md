@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧑Portfolio - https://pankajkoree.netlify.app/
 
-🔭I'm currently working on - Mental Stress App <br>☘️I'm currently learning - tips and tricks for mental stress
+🔭I'm currently working on - test version of my upcomding project <br>☘️I'm currently learning - proper way of bulidng project
 
 
 ## 🌐 Socials:
