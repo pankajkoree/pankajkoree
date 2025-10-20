@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑 : linktr.ee/pankajkoree
+🧑 : linktr - https://linktr.ee/pankajkoree
 
 🧑Portfolio - https://pankajkoree.vercel.app/
 
